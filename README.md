@@ -7,7 +7,7 @@ Official Repository for CHI'24 paper
 
 
 # Timeline
-The codes together with utilitis etc spread wildly in our local folders. We are a samll team, with one postdoc and a few undergraduates, and are busy opening our new projects.
+The codes together with utilitis etc spread wildly in our local folders. We are a small team, with one postdoc and a few undergraduates, and are busy opening our new projects.
 
 So, if you want to explore our codes ASAP, please Star 🌟. Thereon, I can better convince myself and students to finalize and maintain this repo.
 
