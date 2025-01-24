@@ -5,14 +5,10 @@ Official Repository for CHI'24 paper
 
 ![fig1-One](https://github.com/Mvrjustid/pepperpose/assets/14902853/3ba45052-5a37-4d7c-a1db-77569b2794fe)
 
+### 24/01/25 Update
+Due to our implementation of a new project, we are placing an embargo (period: 202501-202612) on the full release of the code associated with this work. 
 
-# Timeline
-The codes together with utilitis etc spread wildly in our local folders. We are a small team, with one postdoc and a few undergraduates, and are busy opening our new projects.
+However, following the commitments made in the paper, if specific parts of the code are relevant or valuable to your work, please sign the [EULA](https://wangchongyang.ai/assets/PepperPose_EULA.pdf) and contact me via email. 
+I will make every effort to coordinate access and provide the necessary support.
 
-So, if you want to explore our codes ASAP, please Star 🌟. Thereon, I can better convince myself and students to finalize and maintain this repo.
-
-Cheers : )
-
-25/12/24 Update
-Our team members are bloody busy on all the other stuff; thanks for the stars.
-If you need the code, please contact me directly, and I can share the ENGINEERING one with you.
+**Please note**: You can only use this project's codes and data for Non-commercial Academic purposes.
